@@ -1,4 +1,4 @@
-# Data_Analysis_with_Python
+# Data Analysis with Python
 
 Lecture 01: Importing Data with Pandas
 - challenges of reading a .csv file
