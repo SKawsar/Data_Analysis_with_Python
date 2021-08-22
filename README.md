@@ -21,7 +21,7 @@
 
 #### Lecture 03: HW review session
 
-#### Lecture 4: Data Preproccessing with Pandas
+#### Lecture 04: Data Preproccessing with Pandas
 - How to extract new information from a column?
 - How to create a column based on a condition or function?
 - Removing a string from a column
@@ -30,7 +30,7 @@
 - dataframe sorting
 - dataframe slicing
 
-#### Lecture 5: Data Cleaning - Handling Missing Values
+#### Lecture 05: Data Cleaning - Handling Missing Values
 - performing data cleaning
 - data visualization of missing values
 - string to datetime conversion
