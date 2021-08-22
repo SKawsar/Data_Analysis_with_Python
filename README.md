@@ -18,3 +18,21 @@
 - creating a new column in a dataframe
 - replace/removing a value from a pandas column
 - removing a column from the dataframe
+
+#### Lecture 03: HW review session
+
+#### Lecture 4: Data Preproccessing with Pandas
+- How to extract new information from a column?
+- How to create a column based on a condition or function?
+- Removing a string from a column
+- Checking the unique values for each column
+- performing calculation in dataframe columns
+- dataframe sorting
+- dataframe slicing
+
+#### Lecture 5: Data Cleaning - Handling Missing Values
+- performing data cleaning
+- data visualization of missing values
+- string to datetime conversion
+- removing missing values
+- replacing missing values by: 1. mean, 2. median, 3. constant, 4. interpolation, 5. forward imputation, 6. backward imputation
