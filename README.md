@@ -8,7 +8,7 @@
 - choose columns by number before reading a csv file
 - reading only the first n number of rows
 
-#### Lecture 02: Data Manipulation with Pandas
+#### Lecture 02: Data Preprocessing with Pandas
 - reading a .txt (text) or an excel (.xlsx) file
 - dealing with the UnicodeDecodeError?
 - renaming column names
