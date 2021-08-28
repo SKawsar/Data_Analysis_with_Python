@@ -36,3 +36,6 @@
 - string to datetime conversion
 - removing missing values
 - replacing missing values by: 1. mean, 2. median, 3. constant, 4. interpolation, 5. forward imputation, 6. backward imputation
+
+#### Lecture 6: Data Joining/Merging using Pandas
+- inner join, outer join, left join, right join
