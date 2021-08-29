@@ -39,3 +39,10 @@
 
 #### Lecture 6: Data Joining/Merging using Pandas
 - inner join, outer join, left join, right join
+
+#### Lecture 7: Data Aggregation/grouping and Pivot table using Pandas
+- Data filtering
+- Data preprocessing
+- Data Aggregation/grouping 
+- Pivot table
+- Data Visualization: Barplot
