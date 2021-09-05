@@ -46,3 +46,11 @@
 - Data Aggregation/grouping 
 - Pivot table
 - Data Visualization: Barplot
+
+#### Lecture 8: Data Correlation and Categorical Variable Encoding
+- Data Correlation
+- Heatmap
+- Dealing with categorical variables
+- Label encoding
+- One-hot encoding
+- Categorical variable creation from the numeric variable
